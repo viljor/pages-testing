@@ -1,2 +1,3 @@
 name: github-pages-test
-markdown: markdown
+markdown: kramdown
+theme: minima
