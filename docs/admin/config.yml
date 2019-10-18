@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: viljor/viljor.github.io
+  repo: viljor/pages-testing
   branch: master
   site_domain: unruffled-spence-b6e9eb.netlify.com/
 
